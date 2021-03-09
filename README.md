@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of the project was to look at data from crowdfunding campaigns to analyze trends and make conclusions based on outcomes (whether the campaign met it’s goals or not).   Specifically, the analysis was done to see the success or failure trends of plays in the theater category.  We ultimately wanted to look at how different campaign successes were based on launch dates and funding goals. 
 
 ## Analysis and Challenges
 
