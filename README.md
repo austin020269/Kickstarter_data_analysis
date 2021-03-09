@@ -1,12 +1,16 @@
 # kickstarter-analysis
 
+
+
 ## Overview of Project
 
 ### Purpose
 The purpose of the project was to look at data from crowdfunding campaigns to analyze trends and make conclusions based on outcomes (whether the campaign met it’s goals or not).   Specifically, the analysis was done to see the success or failure trends of plays in the theater category.  We ultimately wanted to look at how different campaign successes were based on launch dates and funding goals. 
 
+
 ## Analysis and Challenges
 Analysis for this project was completed using the Kickstarter.xls spreadsheet downloaded from the UT Data Analysis Bootcamp website.
+
 ### Analysis of Outcomes Based on Launch Date
 Using our Kickstarter spreadsheet (???????), Initially, we took the data and applied a conditional formatting to identify whether the outcome of the campaign was successful, failed, live or canceled.  We then used a ROUND() function to divide the pledge by the goal to determine the success of the event where, for example E34 is the pledge and D34 is the goal.  This would give us our percentage funded, ultimately telling us whether or not the project met it's goals.
 
@@ -18,7 +22,9 @@ Next, we had to determine our launch date using a timestamp function that conver
 
 Finally, after making all the calculation we needed for analysis, we careted a pivot table that shows outcomes on launch date by filtering on category and years , showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
 
+https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
