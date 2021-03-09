@@ -23,6 +23,7 @@ Finally, after making all the calculation we needed for analysis, we careted a p
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+The largest challenge for me was the breadth of data associated with the spreadsheet and keeping track of which data were the most vital for the analysis at what process.  Should I take on a project like this of my own in the future, I will be sure to keep the data set smaller and more manageable.   This file was only manageable in a .zip form and was very cumbersome to manage.
 
 ## Results
 
