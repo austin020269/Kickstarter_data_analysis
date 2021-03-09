@@ -1,7 +1,5 @@
 # kickstarter-analysis
 
-![alt text](https://en.wikipedia.org/wiki/Play_(theatre)#/media/File:Macbeth_(32280144787).jpg)
-
 ## Overview of Project
 
 ### Purpose
@@ -20,12 +18,15 @@ Next, we had to determine our launch date using a timestamp function that conver
 
 =(((J2525/60)/60)/24)+DATE(1970,1,1)
 
-Finally, after making all the calculation we needed for analysis, we careted a pivot table that shows outcomes on launch date by filtering on category and years , showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
+Finally, after making all the calculation we needed for analysis, we created a pivot table that shows outcomes on launch date by filtering on category and years, showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
+Because we were specifically interested in the plays subcategory, we used a COUNTIFS function to calculate play outcomes based on goals for 12 categories from $0 to $50,000.  We filtered our data on outcomes, goals and the “plays” subcategory as shown below.
+
+![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The largest challenge for me was the breadth of data associated with the spreadsheet and keeping track of which data were the most vital for the analysis at what process.  Should I take on a project like this of my own in the future, I will be sure to keep the data set smaller and more manageable.   This file was only manageable in a .zip form and was very cumbersome to manage.
