@@ -22,7 +22,7 @@ Next, we had to determine our launch date using a timestamp function that conver
 
 Finally, after making all the calculation we needed for analysis, we careted a pivot table that shows outcomes on launch date by filtering on category and years , showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
 
-![alt text]https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
+![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
