@@ -24,11 +24,13 @@ Finally, after making all the calculations we needed for analysis, we created a 
 
 
 ### Analysis of Outcomes Based on Goals
-Because we were specifically interested in the plays subcategory, we used a COUNTIFS() function to calculate play outcomes based on goals for 12 categories from $0 to $50,000 as shown in the table below.  In this table, we filtered our data on outcomes, goals and the “plays” subcategory using our COUNTIFS() function.  
+Because we were specifically interested in the plays subcategory, we used a COUNTIFS() function to calculate play outcomes based on goals for 12 categories from $0 to greater than $50,000 as shown in the table below.  In this table, we filtered our data on outcomes, goals and the “plays” subcategory using our COUNTIFS() function.  We als used the SUM() function to get the total number of projects in each goal category. 
 
 =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D, "<1000",Kickstarter!$R:$R,"plays")
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goals%20Table.PNG)
+
+We finally created another pivot table and pivot chart from this analysis that filtered on 
 
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
