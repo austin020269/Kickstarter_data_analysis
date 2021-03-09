@@ -42,5 +42,3 @@ The largest challenge for me was the breadth of data associated with the spreads
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-
-Analysis of Kickstarter data to identify trends
