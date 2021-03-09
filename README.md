@@ -18,13 +18,15 @@ Next, we had to determine our launch date using a timestamp function that conver
 
 =(((J2525/60)/60)/24)+DATE(1970,1,1)
 
-Finally, after making all the calculation we needed for analysis, we created a pivot table that shows outcomes on launch date by filtering on category and years, showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
+Finally, after making all the calculations we needed for analysis, we created a pivot table that shows outcomes on launch date by filtering on category and years, showing the relationship between the date created (start date of the campaign) and the total outcomes.  The pivot chart showing this analysis is below.
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
-Because we were specifically interested in the plays subcategory, we used a COUNTIFS function to calculate play outcomes based on goals for 12 categories from $0 to $50,000.  We filtered our data on outcomes, goals and the “plays” subcategory as shown below.
+Because we were specifically interested in the plays subcategory, we used a COUNTIFS() function to calculate play outcomes based on goals for 12 categories (???????) from $0 to $50,000.  We filtered our data on outcomes, goals and the “plays” subcategory as shown below.  
+
+=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D, "<1000",Kickstarter!$R:$R,"plays")
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
