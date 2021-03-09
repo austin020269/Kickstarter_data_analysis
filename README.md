@@ -1,6 +1,6 @@
 # kickstarter-analysis
 
-
+![alt text](https://en.wikipedia.org/wiki/Play_(theatre)#/media/File:Macbeth_(32280144787).jpg)
 
 ## Overview of Project
 
@@ -24,7 +24,6 @@ Finally, after making all the calculation we needed for analysis, we careted a p
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
