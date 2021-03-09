@@ -24,7 +24,7 @@ Finally, after making all the calculations we needed for analysis, we created a 
 
 
 ### Analysis of Outcomes Based on Goals
-Because we were specifically interested in the plays subcategory, we used a COUNTIFS() function to calculate play outcomes based on goals for 12 categories from $0 to greater than $50,000 as shown in the table below.  In this table, we filtered our data on outcomes, goals and the “plays” subcategory using our COUNTIFS() function.  We als used the SUM() function to get the total number of projects in each goal category. 
+Because we were specifically interested in the plays subcategory, we used a COUNTIFS() function to calculate play outcomes based on goals for 12 categories from $0 to greater than $50,000 as shown in the table below.  In this table, we filtered our data on outcomes, goals and the “plays” subcategory using our COUNTIFS() function.  We also used the SUM() function to get the total number of projects in each goal category.  Finally, the percentages of successful, failed, and canceled projects were calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns.  
 
 =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D, "<1000",Kickstarter!$R:$R,"plays")
 
