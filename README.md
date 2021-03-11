@@ -46,7 +46,16 @@ The largest challenge for me was the breadth of data associated with the spreads
 3.	Even successful theater campaigns begin to fail at the end of the year.
 
 - What can you conclude about the Outcomes based on Goals?
+1.	Failed projects exceed the successful projects percentage goals between $20,000-$40,000.
+2.	Successful projects do not meet their goals if their goal in greater than $49,999
+3.	Failed projects exceed their goals after their goal is $49999
+4.	The lower the goal the more successful projects are (<$14999)
+5.	Failed projects meet their goal when it is between  $24999 - $39999
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+1.	% Goals versus months – Trends in goals percentage vs launch date
+2.	Country vs success % goal
+3.	Staff pick vs success
+
