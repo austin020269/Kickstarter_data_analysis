@@ -7,7 +7,7 @@ The purpose of the project was to look at data from crowdfunding campaigns to an
 
 
 ## Analysis and Challenges
-Analysis for this project was completed using the Kickstarter.xls (link????) spreadsheet downloaded from the UT Data Analysis Bootcamp website.
+Analysis for this project was completed using the Kickstarter.xls (https://github.com/austin020269/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip) spreadsheet downloaded from the UT Data Analysis Bootcamp website.
 
 ### Analysis of Outcomes Based on Launch Date
 Using our Kickstarter spreadsheet, Initially, we took the data and applied a conditional formatting to identify whether the outcome of the campaign was successful, failed, live or canceled.  We then used a ROUND() function to divide the pledge by the goal to determine the success of the event where, for example E34 is the pledge and D34 is the goal.  This would give us our percentage funded, ultimately telling us whether or not the project met it's goals.
