@@ -47,7 +47,7 @@ Similarly, conclusions can be drawn from the Outcomes Based on Goals chart.  One
 The dataset does take into account the country location but not the individual venue location for the event (specific location the event is taking place).  Being from Austin, TX, which is the music capital of the United States, I know this to be true.  For instance, a certain bar might be more popular than another location and therefore more likely to have a larger crowd in attendance.  This leads to the outcome of the event and influence the overall success of the campaign.  Other cities, states and countries would have similar situations.
 
 ### Future Use of the Dataset
-In additon to the previously discussed results, similar graphs and analyses could be done.  Some of these are shown below.
+In addition to the previously discussed results, similar graphs and analyses could be done.  Some of these are shown below.
 1.	Category/Subcategory vs % goal
 2.	Country vs % goal
 3.	Staff pick vs successful, failed or canceled
