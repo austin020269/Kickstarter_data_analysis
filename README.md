@@ -30,7 +30,7 @@ Because we were specifically interested in the plays subcategory, we used a COUN
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goals%20Table.PNG)
 
-We finally created another pivot table and pivot chart from this analysis that filtered on 
+We finally created another a chart that showed the percentage seuccessful, failed or canceled versus the goal amount ranges as seen below.
 
 
 ![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
