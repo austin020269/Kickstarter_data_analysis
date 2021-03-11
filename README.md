@@ -50,5 +50,5 @@ The dataset does take into account the country location but not the individual v
 In additon to the previously discussed results, similar graphs and analyses could be done.  Some of these are shown below.
 1.	Category/Subcategory vs % goal
 2.	Country vs % goal
-3.	Staff pick vs success
+3.	Staff pick vs successful, failed or canceled
 
