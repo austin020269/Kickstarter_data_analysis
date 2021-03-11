@@ -39,20 +39,12 @@ We finally created another a chart that showed the percentage successful, failed
 The largest challenge for me was the breadth of data associated with the spreadsheet and keeping track of which data were the most vital for the analysis at what process.  Should I take on a project like this of my own in the future, I will be sure to keep the data set smaller and more manageable.   This file was only manageable in a .zip form and was very cumbersome to manage.
 
 ## Results
+With any analysis there are conclusions that can be drawn from the project.  When looking at the Theater Outcomes by Launch Date graph we can see that the theater industry thrives at the beginning of the summer, in the months of May and June.  This might be expected with more favorable weather conditions and children taking their summer leave from school, allowing families the opportunity to exit their normal routines and get out and enjoy themselves.  Additionally, this graph shows that failed and canceled theater campaigns are relatively steady throughout the year while successful campaigns are highly influenced by the time of the year.  Finally, it shows that even successful theater campaigns begin to fail at the end of the year.  This again might indicate that families begin to stay at home more during colder weather months or decide to focus their money more for holiday expenses.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1.	The theater industry thrives at the beginning of the summer, in the months of May and June.
-2.	Failed and canceled theater campaigns are relatively steady throughout the year while the successful campaigns are highly influenced by the time of the year.
-3.	Even successful theater campaigns begin to fail at the end of the year.
+Similarly, conclusions can be drawn from the Outcomes Based on Goals graph.  One conclusion might be that failed projects exceed the successful projects percentage goals between $19,999-$39,999.  Failed projects also begin to exceed their goals at $45,000 while successful projects begin to fail at their goals.  Finally, one could conclude that campaigns in general are more successful when their goal value is less than $20,000.
 
-- What can you conclude about the Outcomes based on Goals?
-1.	Failed projects exceed the successful projects percentage goals between $20,000-$40,000.
-2.	Successful projects do not meet their goals if their goal in greater than $49,999
-3.	Failed projects exceed their goals after their goal is $49999
-4.	The lower the goal the more successful projects are (<$14999)
-5.	Failed projects meet their goal when it is between  $24999 - $39999
-
-- What are some limitations of this dataset?
+### Data Limitations
+The dataset does take into account the country location but not the individual venue location for the event (specific location the event is taking place).  Being from Austin, TX, which is the music capital of the United States, I know this to be true.  For instance, a certain bar might be more popular than another location and therefore more likely to have a larger crowd in attendance.  This leads to the outcome of the event and influence the overall success of the campaign.  Other cities, states and countries would have similar situations.
 
 - What are some other possible tables and/or graphs that we could create?
 1.	% Goals versus months – Trends in goals percentage vs launch date
