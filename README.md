@@ -41,6 +41,9 @@ The largest challenge for me was the breadth of data associated with the spreads
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1.	The theater industry thrives at the beginning of the summer, in the months of May and June.
+2.	Failed and canceled theater campaigns are relatively steady throughout the year while the successful campaigns are highly influenced by the time of the year.
+3.	Even successful theater campaigns begin to fail at the end of the year.
 
 - What can you conclude about the Outcomes based on Goals?
 
